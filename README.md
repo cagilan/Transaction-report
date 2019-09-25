@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# assignment
-=======
-# myrepo
->>>>>>> ae5cbffc79145fdbe5177973e5d8ec94312d0c3d
+# My rabo assignment project
+
+Transaction report developed created using Java8 and Spring MVC. 
+
+This application developed as one of my Rabo project.
